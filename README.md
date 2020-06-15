@@ -45,5 +45,8 @@ The trained weights will be saved in ```./save/``` folder. After training, you c
 
 ## Citation
 ```
-Junyi Gao, Cao Xiao, Lucas M. Glass, and Jimeng Sun. 2020. COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching. In Proceedings ofthe 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’20), August 23–27, 2020, Virtual Event, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3394486.3403123
+Junyi Gao, Cao Xiao, Lucas M. Glass, and Jimeng Sun. 2020. 
+COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching. 
+In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’20), August 23–27, 2020, Virtual Event, CA, USA. ACM, New York, NY, USA, 10 pages. 
+https://doi.org/10.1145/3394486.3403123
 ```
