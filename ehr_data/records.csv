@@ -1,0 +1,6 @@
+claim_id,diag_cd,origl_prod_svc_qlfr_cd,pat_age_yr_nbr,pat_gender_cd,product_id,nct_id
+1,NULL,1,70,F,1,NCT01173471
+1,G35,NULL,70,F,2,NCT02817906
+2,G43711,NULL,45,M,1,NCT02241785
+2,G500,1,45,M,3,NCT00213135
+2,NULL,1,45,M,1,NCT01173471
