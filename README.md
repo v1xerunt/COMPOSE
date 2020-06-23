@@ -17,7 +17,7 @@ https://www.dropbox.com/s/8armk04fu16algz/pretrained_bert_tf.tar.gz?dl=1
     * The records.csv saves patients' visits. Each visit should have diagnosis/procedure/product codes. And this table should also stores the information about the corresponding trials for each patient.
     * We provide sample EHR data and codes in ```./ehr_data/``` directory.
 * Trial data: Trial data should be saved in ```./trial_data/``` directory. You can find certain trials in https://clinicaltrials.gov/. Or you can download multiple trials from https://clinicaltrials.gov/ct2/resources/download. The downloaded trials are xml files.
-    * We also provide the trial data used in our experiment. Please use ```pickle.dump('./trial_list', 'rb')``` to load trial data.
+    * We also provide the trial data used in our experiment. Please use ```pickle.load('./trial_list', 'rb')``` to load trial data.
 
 ## Data pre-processing
 1. We first use ```./utils/filter_trial.py``` to load all trial xml files to a list.
