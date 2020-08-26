@@ -2,6 +2,9 @@
 
 The source code for KDD 2020 paper *COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching*
 
+Oral presentation video: https://youtu.be/OHEjb1IhoMU
+Slides: http://aboutme.vixerunt.org/publication/compose/COMPOSE_slides.pdf
+
 ## Requirements
 
 * Install python, pytorch. We use Python 3.7.3, Pytorch 1.1.
